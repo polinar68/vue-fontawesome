@@ -475,7 +475,7 @@ To use the following examples you must first register your component so Vue is a
 
 A good place to do this is in `main.js` or in the module you are calling `new
 Vue()`. **Make sure you register the component** and **have added icons to your
-library** before you bootstrap your Vue application.
+library** before you bootstrap your Vue application.cm
 
 ```javascript
 import Vue from 'vue'
